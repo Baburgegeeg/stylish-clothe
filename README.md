@@ -1,1 +1,1 @@
-# stylish-clothe
+# stylish-cloth
